@@ -32,6 +32,7 @@ Create animations for card shuffling, dealing, and collecting.
 Implement basic Blackjack rules.
 Enable functions like Hit, Stand, Double Down, Split (when cards are identical or optional 10s).
 Add an "Insurance" feature when the dealer has an Ace.
+
 —------------------------------------------------------------------------------------------------------------------------
 
 2. In-Game Currency & Economy: 5 Weeks – until Week 51
@@ -41,6 +42,7 @@ Display the current balance in a clear place in the user interface.
 
 2.2. Currency Transactions:
 Adjust the player's balance based on game results and purchases in the store.
+
 —------------------------------------------------------------------------------------------------------------------------
 
 3. Menus & Settings: 5 Weeks – until Week 4
@@ -54,6 +56,7 @@ Add features like volume control, graphics settings, and other important aspects
 3.3. Shop:
 Display the player's balance.
 Allow players to buy custom card designs and table colors.
+
 —------------------------------------------------------------------------------------------------------------------------
 
 4. Sound & Visual Effects: 3 Weeks – until Week 7
@@ -63,6 +66,7 @@ Create and integrate sounds for winning, losing, getting blackjack, money being 
 
 4.2. Visual Effects:
 Design and add visual effects for moments like blackjack, wins, and losses.
+
 —------------------------------------------------------------------------------------------------------------------------
 
 5. Continuous Development & Improvement: 2 Weeks – until Week 9
@@ -73,6 +77,7 @@ Conduct tests to gather feedback and identify areas for improvement.
 5.2. Troubleshooting & Fixes:
 Establish a debugging system.
 Prioritize and address critical issues.
+
 —------------------------------------------------------------------------------------------------------------------------
 
 (6.) Product Presentation: 3 Weeks – until Week 12
